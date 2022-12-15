@@ -1,4 +1,4 @@
-# Machine-Learing
+# Machine-Learning
 ## Music genres
 > ### Data Source: DataCamp
 
